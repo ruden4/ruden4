@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 -   linkedin - http://www.linkedin.com/in/oleksandr-rudenko-91275229a
 -   djinni - https://djinni.co/q/ce5f0ff96b/
+-   gmail - ruden4@gmail.com
 - 😄 Pronouns: for real?
 - ⚡ Fun fact: "TypeScript makes simple things complicated, and complicated things any."
 
